@@ -1,2 +1,2 @@
-# bj2qnewsWeb
-新闻发布网站
+# Web
+新闻
